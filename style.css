@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    margin-left:30%;
+    margin-top: 50px;background-image:linear-gradient(pink,purple);
+}
+div{
+    border:3px solid skyblue;
+    border-radius:20px;
+    width:60%;
+    height:300px;
+    background-image:radial-gradient(pink,skyblue,yellow)
+}
+label{
+    margin-bottom:30px;
+    padding:30px;
+}
